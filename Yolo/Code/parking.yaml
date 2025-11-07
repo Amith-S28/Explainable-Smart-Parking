@@ -1,0 +1,8 @@
+
+path: C:\Project\Smart Parking\LocalMachine\Yolo\yolo_splits
+train: images/train
+val: images/val
+
+names:
+  0: occupied
+  1: free
