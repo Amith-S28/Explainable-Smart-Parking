@@ -169,7 +169,9 @@ Released under the **MIT License** — free for academic and research use with a
 
 ## 💬 Contact
 📧 **prakhyatsingh0777@gmail.com**  
-📍 Lovely Professional University, Phagwara, Punjab, India  
+📍 Lovely Professional University, Phagwara, Punjab, India
+📧 **amithsirisilla28@gmail.com**  
+📍 Lovely Professional University, Phagwara, Punjab, India
 
 ---
 
